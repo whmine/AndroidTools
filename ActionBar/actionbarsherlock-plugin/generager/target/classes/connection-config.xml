@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <connection-config default="android-pool">
+    <connection name="13-pool">
+        <driver-class>oracle.jdbc.driver.OracleDriver</driver-class>
+        <username>WHSPS_COVRING</username>
+        <password>WHSPS_COVRING</password>
+        <url>jdbc:oracle:thin:@133.0.179.196:1521:orawh</url>
+        <pool-maxActive>100</pool-maxActive>
+        <pool-maxWait>120000</pool-maxWait>
+        <pool-maxIdle>10</pool-maxIdle>
+    </connection>
+    <connection name="sps_dev_pool">
+        <driver-class>oracle.jdbc.driver.OracleDriver</driver-class>
+        <username>sps_dev</username>
+        <password>wh_test_sps_dev</password>
+        <url>jdbc:oracle:thin:@133.0.179.196:1521:orawh</url>
+        <pool-maxActive>100</pool-maxActive>
+        <pool-maxWait>120000</pool-maxWait>
+        <pool-maxIdle>10</pool-maxIdle>
+    </connection>
+    <connection name="11-pool">
+        <driver-class>oracle.jdbc.driver.OracleDriver</driver-class>
+        <username>spsuser</username>
+        <password>spsuser</password>
+        <url>jdbc:oracle:thin:@192.168.90.107:1521:vision</url>
+        
+        <pool-maxActive>100</pool-maxActive>
+        <pool-maxWait>120000</pool-maxWait>
+        <pool-maxIdle>10</pool-maxIdle>
+    </connection>
+    
+    <connection name="12-pool">
+        <driver-class>oracle.jdbc.driver.OracleDriver</driver-class>
+        <username>spsdev</username>
+        <password>spsdev</password>
+        <url>jdbc:oracle:thin:@svr914.cattsoft.com:1521:spsdev</url>
+        
+        <pool-maxActive>100</pool-maxActive>
+        <pool-maxWait>120000</pool-maxWait>
+        <pool-maxIdle>10</pool-maxIdle>
+    </connection>
+ 
+    
+    <connection name="android-pool">
+        <driver-class>org.sqlite.JDBC</driver-class>
+        <username></username>
+        <password></password>
+        <url>jdbc:sqlite:E:/data.db</url>
+        
+        <pool-maxActive>100</pool-maxActive>
+        <pool-maxWait>120000</pool-maxWait>
+        <pool-maxIdle>10</pool-maxIdle>
+    </connection>
+ 
+</connection-config>

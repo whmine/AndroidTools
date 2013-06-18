@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.6">
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-whmine\book\src\com\actionbarsherlock\whmine\book\app\AppApplication.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-whmine\book\src\com\actionbarsherlock\whmine\book\cache\ConfigCache.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-whmine\book\src\com\actionbarsherlock\whmine\book\dao\BookSDAOImpl.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-whmine\book\src\com\actionbarsherlock\whmine\book\dao\ChapterSDAOImpl.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-whmine\book\src\com\actionbarsherlock\whmine\book\dao\ClearSDAOImpl.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-whmine\book\src\com\actionbarsherlock\whmine\book\dao\SiteinfoSDAOImpl.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-whmine\book\src\com\actionbarsherlock\whmine\book\dao\SitePatternSDAOImpl.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-whmine\book\src\com\actionbarsherlock\whmine\book\dao\UpgradeSDAOImpl.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-whmine\book\src\com\actionbarsherlock\whmine\book\db\AppSQLiteHelper.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-whmine\book\src\com\actionbarsherlock\whmine\book\MainActivity.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-whmine\book\src\com\actionbarsherlock\whmine\book\MenuActivity.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-whmine\book\src\com\actionbarsherlock\whmine\book\mode\BookSVO.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-whmine\book\src\com\actionbarsherlock\whmine\book\mode\ChapterSVO.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-whmine\book\src\com\actionbarsherlock\whmine\book\mode\ClearSVO.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-whmine\book\src\com\actionbarsherlock\whmine\book\mode\SiteinfoSVO.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-whmine\book\src\com\actionbarsherlock\whmine\book\mode\SitePatternSVO.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-whmine\book\src\com\actionbarsherlock\whmine\book\mode\UpgradeSVO.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-whmine\book\src\com\actionbarsherlock\whmine\book\RoundedColourFragment.java">
+</file>
+</checkstyle>

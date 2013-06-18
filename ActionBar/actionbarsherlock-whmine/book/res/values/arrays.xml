@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2011 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+
+<resources>
+
+    <string-array name="tableSql">
+        <item>CREATE TABLE if not exists book (author VARCHAR , uri VARCHAR , updateTime VARCHAR , brief VARCHAR , siteName VARCHAR , categoryName VARCHAR , coverUrl VARCHAR , newChapterUrl VARCHAR , newChapterName VARCHAR , name VARCHAR , lastRead BIGINT , lastReadTime BIGINT , downloadTime BIGINT , id INTEGER PRIMARY KEY AUTOINCREMENT , needUpdate SMALLINT , newChapterId INTEGER , maxReadChapterId INTEGER , defaultBook INTEGER , sequence INTEGER , siteId INTEGER , categoryId INTEGER , temp SMALLINT , type SMALLINT , autoDownload SMALLINT , autoDelete SMALLINT , userId INTEGER )</item>
+        <item>CREATE TABLE if not exists chapter (_Id INTEGER PRIMARY KEY AUTOINCREMENT, title varchar(250) not null,  bookID int not null, chapterURL varchar(250), downTime long, sequence int, volume varchar(250), wordNums int, position real, chapterType tinyint, tempUrl varchar(250))</item>
+        <item>CREATE TABLE if not exists clear (bookId INTEGER PRIMARY KEY, chapterSequences text)</item>
+        <item>CREATE TABLE if not exists siteInfo (siteId INTEGER PRIMARY KEY, host text, extra text, siteName text)</item>
+        <item>CREATE TABLE if not exists site_pattern (_Id INTEGER PRIMARY KEY AUTOINCREMENT, url varchar(250) not null, siteName varchar(250), startMark varchar(250), endMark varchar(250), deleteMark varchar(250));</item>
+        <item>CREATE TABLE if not exists upgrade (apkUrl VARCHAR , badVersion VARCHAR , description VARCHAR , releaseDate VARCHAR , newVersionName VARCHAR , newVersionCode INTEGER , minVersionCode INTEGER , id INTEGER , PRIMARY KEY (id) )
+        </item>
+    </string-array>
+    <string-array name="tableUpdateSql">
+    </string-array>
+    <string-array name="sections">
+        <item>Home</item>
+        <item>SDK</item>
+        <item>Dev Guide</item>
+        <item>Reference</item>
+        <item>Resources</item>
+        <item>Videos</item>
+        <item>Blog</item>
+    </string-array>
+
+</resources>

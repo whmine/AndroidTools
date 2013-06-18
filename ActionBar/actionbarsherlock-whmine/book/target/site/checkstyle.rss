@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>whmine: book - Checkstyle report</title>
+    <link>http://actionbarsherlock.com/parent-whmine/whmine-book</link>
+    <description>whmine: book - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2011 - 2013 Jake Wharton</copyright>
+    <item>
+      <title>File: 18,
+             Errors: 0,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>http://actionbarsherlock.com/parent-whmine/whmine-book/checkstyle.html</link>
+      <description>
+        <p>Click <a href="http://actionbarsherlock.com/parent-whmine/whmine-book/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-whmine/whmine-book/checkstyle.html#com.actionbarsherlock.whmine.book.mode.ClearSVO.java">com/actionbarsherlock/whmine/book/mode/ClearSVO.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-whmine/whmine-book/checkstyle.html#com.actionbarsherlock.whmine.book.cache.ConfigCache.java">com/actionbarsherlock/whmine/book/cache/ConfigCache.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-whmine/whmine-book/checkstyle.html#com.actionbarsherlock.whmine.book.app.AppApplication.java">com/actionbarsherlock/whmine/book/app/AppApplication.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-whmine/whmine-book/checkstyle.html#com.actionbarsherlock.whmine.book.dao.ChapterSDAOImpl.java">com/actionbarsherlock/whmine/book/dao/ChapterSDAOImpl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-whmine/whmine-book/checkstyle.html#com.actionbarsherlock.whmine.book.dao.ClearSDAOImpl.java">com/actionbarsherlock/whmine/book/dao/ClearSDAOImpl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-whmine/whmine-book/checkstyle.html#com.actionbarsherlock.whmine.book.mode.ChapterSVO.java">com/actionbarsherlock/whmine/book/mode/ChapterSVO.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-whmine/whmine-book/checkstyle.html#com.actionbarsherlock.whmine.book.RoundedColourFragment.java">com/actionbarsherlock/whmine/book/RoundedColourFragment.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-whmine/whmine-book/checkstyle.html#com.actionbarsherlock.whmine.book.mode.UpgradeSVO.java">com/actionbarsherlock/whmine/book/mode/UpgradeSVO.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-whmine/whmine-book/checkstyle.html#com.actionbarsherlock.whmine.book.mode.SitePatternSVO.java">com/actionbarsherlock/whmine/book/mode/SitePatternSVO.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-whmine/whmine-book/checkstyle.html#com.actionbarsherlock.whmine.book.dao.SitePatternSDAOImpl.java">com/actionbarsherlock/whmine/book/dao/SitePatternSDAOImpl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-whmine/whmine-book/checkstyle.html#com.actionbarsherlock.whmine.book.mode.BookSVO.java">com/actionbarsherlock/whmine/book/mode/BookSVO.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-whmine/whmine-book/checkstyle.html#com.actionbarsherlock.whmine.book.dao.SiteinfoSDAOImpl.java">com/actionbarsherlock/whmine/book/dao/SiteinfoSDAOImpl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-whmine/whmine-book/checkstyle.html#com.actionbarsherlock.whmine.book.db.AppSQLiteHelper.java">com/actionbarsherlock/whmine/book/db/AppSQLiteHelper.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-whmine/whmine-book/checkstyle.html#com.actionbarsherlock.whmine.book.mode.SiteinfoSVO.java">com/actionbarsherlock/whmine/book/mode/SiteinfoSVO.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-whmine/whmine-book/checkstyle.html#com.actionbarsherlock.whmine.book.dao.BookSDAOImpl.java">com/actionbarsherlock/whmine/book/dao/BookSDAOImpl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-whmine/whmine-book/checkstyle.html#com.actionbarsherlock.whmine.book.dao.UpgradeSDAOImpl.java">com/actionbarsherlock/whmine/book/dao/UpgradeSDAOImpl.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-whmine/whmine-book/checkstyle.html#com.actionbarsherlock.whmine.book.MainActivity.java">com/actionbarsherlock/whmine/book/MainActivity.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-whmine/whmine-book/checkstyle.html#com.actionbarsherlock.whmine.book.MenuActivity.java">com/actionbarsherlock/whmine/book/MenuActivity.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+

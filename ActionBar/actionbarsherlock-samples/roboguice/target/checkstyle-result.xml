@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.6">
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\roboguice\src\com\actionbarsherlock\sample\roboguice\activity\AstroboyMasterConsole.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\roboguice\src\com\actionbarsherlock\sample\roboguice\activity\FightForcesOfEvilActivity.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\roboguice\src\com\actionbarsherlock\sample\roboguice\controller\Astroboy.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\roboguice\src\com\actionbarsherlock\sample\roboguice\controller\AstroboyRemoteControl.java">
+</file>
+</checkstyle>

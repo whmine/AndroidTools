@@ -1,0 +1,148 @@
+package com.actionbarsherlock.whmine.${daoMeta.moduleName}.dao;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import android.database.Cursor;
+import android.database.SQLException;
+import android.database.sqlite.SQLiteDatabase;
+
+import com.actionbarsherlock.dao.ISDAO;
+import com.actionbarsherlock.exception.AppException;
+import com.actionbarsherlock.exception.SysException;
+import com.actionbarsherlock.utils.StringUtil;
+import com.actionbarsherlock.vo.GenericVO;
+import com.actionbarsherlock.whmine.${daoMeta.moduleName}.mode.${daoMeta.className}SVO;
+
+public class ${daoMeta.className}SDAOImpl implements ISDAO {
+
+    private final static String TAG = "${daoMeta.className}SDao";
+    private SQLiteDatabase db;
+
+    public ${daoMeta.className}SDAOImpl(SQLiteDatabase db) {
+        this.db = db;
+    }
+
+    @Override
+    public GenericVO findByPK(GenericVO vo) throws AppException, SysException {
+        Cursor cursor = null;
+        StringBuffer whereSelect = new StringBuffer(" 1=1 ");
+        List<String> selectionArgs = new ArrayList<String>();
+        ${daoMeta.className}SVO ${daoMeta.objName} = (${daoMeta.className}SVO) vo;
+        try {
+        <#list daoMeta.pkColNames as priKey>  
+            if (!StringUtil.isBlank(${daoMeta.objName}.get${convert2ClassMethodName(priKey)}())) {
+                whereSelect.append(" and ${convert2ObjVarName(priKey)}=? ");
+                selectionArgs.add(${daoMeta.objName}.get${convert2ClassMethodName(priKey)}());
+            }
+            cursor = db.query("${daoMeta.tableName}", null, whereSelect.toString(),
+                    (String[]) selectionArgs.toArray(), null, null, "${convert2ObjVarName(priKey)}");
+        </#list>
+            if (cursor.moveToFirst()) {
+                ${daoMeta.className}SVO temp${daoMeta.objName} = new ${daoMeta.className}SVO(cursor);
+                return temp${daoMeta.objName};
+            }
+        } catch (Exception e) {
+            e.printStackTrace();
+        } finally {
+            if (cursor != null) {
+                cursor.close();
+            }
+        }
+        return null;
+    }
+
+    @Override
+    public void add(GenericVO vo) throws AppException, SysException {
+        try {
+            ${daoMeta.className}SVO ${daoMeta.objName} = (${daoMeta.className}SVO) vo;
+            StringBuffer sql = new StringBuffer("INSERT INTO ${daoMeta.tableName}(${daoMeta.columnsStr})");
+            sql.append("values(<#if (daoMeta.columns?size>0)><#list daoMeta.columns as col>?<#if col_has_next>,</#if></#list></#if>)");
+            db.execSQL(sql.toString(),${daoMeta.objName}.toArray());
+        } catch (SQLException e) {
+            throw new AppException(TAG, "执行${daoMeta.objName}数据插入异常："+e);
+        }
+    }
+
+    @Override
+    public void addBat(List vos) throws AppException, SysException {
+
+    }
+
+    @Override
+    public void update(GenericVO vo) throws AppException, SysException {
+        if (vo == null) {
+            throw new AppException("100001", "缺少DAO操作对象！");
+        }
+        ${daoMeta.className}SVO ${daoMeta.objName} = (${daoMeta.className}SVO) vo;
+        <#list daoMeta.pkColNames as priKey>   
+        if (StringUtil.isBlank(${daoMeta.objName}.get${convert2ClassMethodName(priKey)}())) {
+            throw new AppException("100002", "缺少对象的主键！");
+        }
+        </#list> 
+        StringBuffer sql = new StringBuffer("UPDATE ${daoMeta.tableName} SET ");
+        List<String> bindArgs = new ArrayList<String>();
+        <#list daoMeta.columns as col>
+        if(!StringUtil.isBlank(${daoMeta.objName}.get${convert2ClassMethodName(col.name)}())){
+            sql.append(" ${convert2ObjVarName(col.name)} = ? <#if col_has_next>,</#if>");
+            bindArgs.add(${daoMeta.objName}.get${convert2ClassMethodName(col.name)}());
+        }
+        </#list>
+        sql.append(" WHERE 1=1 ");
+        <#list daoMeta.pkColNames as priKey> 
+        sql.append("and ${convert2ObjVarName(priKey)} = ?");
+        bindArgs.add(${daoMeta.objName}.get${convert2ClassMethodName(priKey)}());
+        </#list>
+        db.execSQL(sql.toString(),bindArgs.toArray());
+    }
+
+    @Override
+    public void delete(GenericVO vo) throws AppException, SysException {
+       ${daoMeta.className}SVO ${daoMeta.objName} = (${daoMeta.className}SVO) vo;
+        StringBuffer sql = new StringBuffer("delete from ${daoMeta.tableName}");
+        <#list daoMeta.pkColNames as priKey>   
+        if (StringUtil.isBlank(${daoMeta.objName}.get${convert2ClassMethodName(priKey)}())) {
+            throw new AppException("100002", "缺少对象的主键！");
+        }else{
+            sql.append(" where ${convert2ObjVarName(priKey)} = ? ");
+        }
+        db.execSQL(sql.toString(),new String[]{${daoMeta.objName}.get${convert2ClassMethodName(priKey)}()});
+        </#list>
+    }
+
+    @Override
+    public void unable(GenericVO vo) throws AppException, SysException {
+    }
+
+    @Override
+    public List findByVO(GenericVO vo) throws AppException, SysException {
+        List<${daoMeta.className}SVO> mListData = new ArrayList<${daoMeta.className}SVO>();
+        Cursor cursor = null;
+        StringBuffer whereSelect = new StringBuffer(" 1=1 ");
+        List<String> selectionArgs = new ArrayList<String>();
+        ${daoMeta.className}SVO ${daoMeta.objName} = (${daoMeta.className}SVO) vo;
+        try {
+             <#list daoMeta.columns as col>
+            if(!StringUtil.isBlank(${daoMeta.objName}.get${convert2ClassMethodName(col.name)}())){
+                whereSelect.append(" and  ${convert2ObjVarName(col.name)} = ?,");
+                selectionArgs.add(${daoMeta.objName}.get${convert2ClassMethodName(col.name)}());
+             }
+            </#list>
+            cursor = db.query(vo.getTableName(), null, whereSelect.toString(),
+                    (String[]) selectionArgs.toArray(), null, null, null);
+            if (cursor.moveToFirst()) {
+                do {
+                    mListData.add(new ${daoMeta.className}SVO(cursor));
+                } while (cursor.moveToNext());
+            }
+        } catch (Exception e) {
+            throw new AppException(TAG, "执行${daoMeta.objName}数据查询异常："+e);
+        } finally {
+            if (cursor != null) {
+                cursor.close();
+            }
+        }
+        return mListData;
+    }
+
+}

@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>Sample: Demos - Checkstyle report</title>
+    <link>http://actionbarsherlock.com/parent-sample/sample-demos</link>
+    <description>Sample: Demos - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2011 - 2013 Jake Wharton</copyright>
+    <item>
+      <title>File: 24,
+             Errors: 0,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>http://actionbarsherlock.com/parent-sample/sample-demos/checkstyle.html</link>
+      <description>
+        <p>Click <a href="http://actionbarsherlock.com/parent-sample/sample-demos/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-demos/checkstyle.html#com.actionbarsherlock.sample.demos.SplitActionItems.java">com/actionbarsherlock/sample/demos/SplitActionItems.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-demos/checkstyle.html#com.actionbarsherlock.sample.demos.FeatureToggles.java">com/actionbarsherlock/sample/demos/FeatureToggles.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-demos/checkstyle.html#com.actionbarsherlock.sample.demos.ListNavigation.java">com/actionbarsherlock/sample/demos/ListNavigation.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-demos/checkstyle.html#com.actionbarsherlock.sample.demos.ShareActionProviders.java">com/actionbarsherlock/sample/demos/ShareActionProviders.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-demos/checkstyle.html#com.actionbarsherlock.sample.demos.TabNavigationCollapsed.java">com/actionbarsherlock/sample/demos/TabNavigationCollapsed.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-demos/checkstyle.html#com.actionbarsherlock.sample.demos.ActionModes.java">com/actionbarsherlock/sample/demos/ActionModes.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-demos/checkstyle.html#com.actionbarsherlock.sample.demos.SplitActionModes.java">com/actionbarsherlock/sample/demos/SplitActionModes.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-demos/checkstyle.html#com.actionbarsherlock.sample.demos.ActionProviders.java">com/actionbarsherlock/sample/demos/ActionProviders.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-demos/checkstyle.html#com.actionbarsherlock.sample.demos.CollapsibleActionItem.java">com/actionbarsherlock/sample/demos/CollapsibleActionItem.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-demos/checkstyle.html#com.actionbarsherlock.sample.demos.ActionItems.java">com/actionbarsherlock/sample/demos/ActionItems.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-demos/checkstyle.html#com.actionbarsherlock.sample.demos.ContextMenus.java">com/actionbarsherlock/sample/demos/ContextMenus.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-demos/checkstyle.html#com.actionbarsherlock.sample.demos.TabNavigation.java">com/actionbarsherlock/sample/demos/TabNavigation.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-demos/checkstyle.html#com.actionbarsherlock.sample.demos.Simple.java">com/actionbarsherlock/sample/demos/Simple.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-demos/checkstyle.html#com.actionbarsherlock.sample.demos.SubMenus.java">com/actionbarsherlock/sample/demos/SubMenus.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-demos/checkstyle.html#com.actionbarsherlock.sample.demos.Overlay.java">com/actionbarsherlock/sample/demos/Overlay.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-demos/checkstyle.html#com.actionbarsherlock.sample.demos.Progress.java">com/actionbarsherlock/sample/demos/Progress.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-demos/checkstyle.html#com.actionbarsherlock.sample.demos.StaticAttachment.java">com/actionbarsherlock/sample/demos/StaticAttachment.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-demos/checkstyle.html#com.actionbarsherlock.sample.demos.Styled.java">com/actionbarsherlock/sample/demos/Styled.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-demos/checkstyle.html#com.actionbarsherlock.sample.demos.ActionModesNoActionBar.java">com/actionbarsherlock/sample/demos/ActionModesNoActionBar.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-demos/checkstyle.html#com.actionbarsherlock.sample.demos.CustomNavigation.java">com/actionbarsherlock/sample/demos/CustomNavigation.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-demos/checkstyle.html#com.actionbarsherlock.sample.demos.SampleList.java">com/actionbarsherlock/sample/demos/SampleList.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-demos/checkstyle.html#com.actionbarsherlock.sample.demos.Preference.java">com/actionbarsherlock/sample/demos/Preference.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-demos/checkstyle.html#com.actionbarsherlock.sample.demos.SearchViews.java">com/actionbarsherlock/sample/demos/SearchViews.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-demos/checkstyle.html#com.actionbarsherlock.sample.demos.IndeterminateProgress.java">com/actionbarsherlock/sample/demos/IndeterminateProgress.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+

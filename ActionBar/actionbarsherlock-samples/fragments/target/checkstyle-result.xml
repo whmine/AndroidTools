@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.6">
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\fragments\src\com\actionbarsherlock\sample\fragments\CheckableFrameLayout.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\fragments\src\com\actionbarsherlock\sample\fragments\Cheeses.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\fragments\src\com\actionbarsherlock\sample\fragments\FragmentAlertDialogSupport.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\fragments\src\com\actionbarsherlock\sample\fragments\FragmentArgumentsSupport.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\fragments\src\com\actionbarsherlock\sample\fragments\FragmentContextMenuSupport.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\fragments\src\com\actionbarsherlock\sample\fragments\FragmentCustomAnimationSupport.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\fragments\src\com\actionbarsherlock\sample\fragments\FragmentDialogOrActivitySupport.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\fragments\src\com\actionbarsherlock\sample\fragments\FragmentDialogSupport.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\fragments\src\com\actionbarsherlock\sample\fragments\FragmentHideShowSupport.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\fragments\src\com\actionbarsherlock\sample\fragments\FragmentLayoutSupport.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\fragments\src\com\actionbarsherlock\sample\fragments\FragmentListArraySupport.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\fragments\src\com\actionbarsherlock\sample\fragments\FragmentMenuSupport.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\fragments\src\com\actionbarsherlock\sample\fragments\FragmentPagerSupport.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\fragments\src\com\actionbarsherlock\sample\fragments\FragmentReceiveResultSupport.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\fragments\src\com\actionbarsherlock\sample\fragments\FragmentRetainInstanceSupport.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\fragments\src\com\actionbarsherlock\sample\fragments\FragmentStackSupport.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\fragments\src\com\actionbarsherlock\sample\fragments\FragmentStatePagerSupport.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\fragments\src\com\actionbarsherlock\sample\fragments\FragmentTabs.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\fragments\src\com\actionbarsherlock\sample\fragments\FragmentTabsPager.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\fragments\src\com\actionbarsherlock\sample\fragments\LoaderCursorSupport.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\fragments\src\com\actionbarsherlock\sample\fragments\LoaderCustomSupport.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\fragments\src\com\actionbarsherlock\sample\fragments\LoaderThrottleSupport.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\fragments\src\com\actionbarsherlock\sample\fragments\SampleList.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\fragments\src\com\actionbarsherlock\sample\fragments\SendResult.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\fragments\src\com\actionbarsherlock\sample\fragments\Shakespeare.java">
+</file>
+</checkstyle>

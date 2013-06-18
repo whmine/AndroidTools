@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.6">
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\demos\src\com\actionbarsherlock\sample\demos\ActionItems.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\demos\src\com\actionbarsherlock\sample\demos\ActionModes.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\demos\src\com\actionbarsherlock\sample\demos\ActionModesNoActionBar.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\demos\src\com\actionbarsherlock\sample\demos\ActionProviders.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\demos\src\com\actionbarsherlock\sample\demos\CollapsibleActionItem.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\demos\src\com\actionbarsherlock\sample\demos\ContextMenus.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\demos\src\com\actionbarsherlock\sample\demos\CustomNavigation.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\demos\src\com\actionbarsherlock\sample\demos\FeatureToggles.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\demos\src\com\actionbarsherlock\sample\demos\IndeterminateProgress.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\demos\src\com\actionbarsherlock\sample\demos\ListNavigation.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\demos\src\com\actionbarsherlock\sample\demos\Overlay.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\demos\src\com\actionbarsherlock\sample\demos\Preference.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\demos\src\com\actionbarsherlock\sample\demos\Progress.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\demos\src\com\actionbarsherlock\sample\demos\SampleList.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\demos\src\com\actionbarsherlock\sample\demos\SearchViews.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\demos\src\com\actionbarsherlock\sample\demos\ShareActionProviders.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\demos\src\com\actionbarsherlock\sample\demos\Simple.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\demos\src\com\actionbarsherlock\sample\demos\SplitActionItems.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\demos\src\com\actionbarsherlock\sample\demos\SplitActionModes.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\demos\src\com\actionbarsherlock\sample\demos\StaticAttachment.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\demos\src\com\actionbarsherlock\sample\demos\Styled.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\demos\src\com\actionbarsherlock\sample\demos\SubMenus.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\demos\src\com\actionbarsherlock\sample\demos\TabNavigation.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\demos\src\com\actionbarsherlock\sample\demos\TabNavigationCollapsed.java">
+</file>
+</checkstyle>

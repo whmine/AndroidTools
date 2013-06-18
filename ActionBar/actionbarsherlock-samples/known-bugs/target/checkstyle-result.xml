@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.6">
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\known-bugs\src\com\actionbarsherlock\sample\knownbugs\Issue240.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\known-bugs\src\com\actionbarsherlock\sample\knownbugs\Issue272.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\known-bugs\src\com\actionbarsherlock\sample\knownbugs\Issue331.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\known-bugs\src\com\actionbarsherlock\sample\knownbugs\Issue379.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\known-bugs\src\com\actionbarsherlock\sample\knownbugs\Issue435.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\known-bugs\src\com\actionbarsherlock\sample\knownbugs\Issue659.java">
+<error line="20" column="1" severity="error" message="File contains tab characters (this is the first instance)." source="com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck"/>
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\known-bugs\src\com\actionbarsherlock\sample\knownbugs\Issue659SuggestionsProvider.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\known-bugs\src\com\actionbarsherlock\sample\knownbugs\Issue738.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\known-bugs\src\com\actionbarsherlock\sample\knownbugs\Issue882.java">
+</file>
+<file name="D:\javaTools\workspace\actionbarsherlock\ActionBar\actionbarsherlock-samples\known-bugs\src\com\actionbarsherlock\sample\knownbugs\SampleList.java">
+</file>
+</checkstyle>

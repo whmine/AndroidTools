@@ -1,0 +1,45 @@
+package com.actionbarsherlock.whmine.${daoMeta.moduleName}.mode;
+
+import android.database.Cursor;
+import com.actionbarsherlock.exception.AppException;
+import com.actionbarsherlock.exception.SysException;
+import com.actionbarsherlock.vo.GenericVO;
+
+public class ${daoMeta.className}SVO extends GenericVO {
+    private final static String TAG = "${daoMeta.className}SVO";
+    <#if (daoMeta.columns?size>0)>
+                <#list daoMeta.columns as col>
+    private ${convertColumnTypeName(col.type)} ${convert2ObjVarName(col.name)};
+    public ${convertColumnTypeName(col.type)} get${convert2ClassMethodName(col.name)}() {
+         return ${convert2ObjVarName(col.name)};
+    }
+    public void set${convert2ClassMethodName(col.name)}(${convertColumnTypeName(col.type)} ${convert2ObjVarName(col.name)}) {
+         this.${convert2ObjVarName(col.name)} = ${convert2ObjVarName(col.name)};
+    }
+                </#list>
+            </#if>
+    public ${daoMeta.className}SVO() {
+        mtableName = "${daoMeta.tableName}";
+    }
+
+    public ${daoMeta.className}SVO(Cursor cursor) throws AppException, SysException {
+
+        mtableName = "${daoMeta.tableName}";
+        <#if (daoMeta.columns?size>0)>
+           <#list daoMeta.columns as col>
+        this.${convert2ObjVarName(col.name)} = cursor.get${convertColumnTypeName(col.type)}(cursor.getColumnIndex("${convert2ObjVarName(col.name)}"));
+           </#list>
+        </#if>
+    }
+
+    public String[] toArray() {
+        String[] arr = new String[${daoMeta.columns?size}];
+        <#if (daoMeta.columns?size>0)>
+           <#list daoMeta.columns as col>
+        arr[${col_index}] = ${convert2ObjVarName(col.name)};
+            </#list>
+        </#if>
+        return arr;
+    }
+
+}

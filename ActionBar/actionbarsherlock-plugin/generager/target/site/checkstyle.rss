@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>plugin: generager - Checkstyle report</title>
+    <link>http://actionbarsherlock.com/parent-plugin/plugin-generager</link>
+    <description>plugin: generager - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2011 - 2013 Jake Wharton</copyright>
+    <item>
+      <title>File: 18,
+             Errors: 0,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>http://actionbarsherlock.com/parent-plugin/plugin-generager/checkstyle.html</link>
+      <description>
+        <p>Click <a href="http://actionbarsherlock.com/parent-plugin/plugin-generager/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-plugin/plugin-generager/checkstyle.html#com.actionbarsherlock.tools.pub.ConnectionConfigReader.java">com/actionbarsherlock/tools/pub/ConnectionConfigReader.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-plugin/plugin-generager/checkstyle.html#com.actionbarsherlock.tools.DAOGenerager.java">com/actionbarsherlock/tools/DAOGenerager.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-plugin/plugin-generager/checkstyle.html#com.actionbarsherlock.tools.DBHelper.java">com/actionbarsherlock/tools/DBHelper.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-plugin/plugin-generager/checkstyle.html#com.actionbarsherlock.tools.DbUtil.java">com/actionbarsherlock/tools/DbUtil.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-plugin/plugin-generager/checkstyle.html#com.actionbarsherlock.tools.ConvertColumnTypeName.java">com/actionbarsherlock/tools/ConvertColumnTypeName.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-plugin/plugin-generager/checkstyle.html#com.actionbarsherlock.tools.UpperFirstCharacter.java">com/actionbarsherlock/tools/UpperFirstCharacter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-plugin/plugin-generager/checkstyle.html#com.actionbarsherlock.tools.DaoMetaData.java">com/actionbarsherlock/tools/DaoMetaData.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-plugin/plugin-generager/checkstyle.html#com.actionbarsherlock.tools.pub.CodeFormatter.java">com/actionbarsherlock/tools/pub/CodeFormatter.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-plugin/plugin-generager/checkstyle.html#com.actionbarsherlock.plugin.GeneragerMojo.java">com/actionbarsherlock/plugin/GeneragerMojo.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-plugin/plugin-generager/checkstyle.html#com.actionbarsherlock.tools.pub.ConnectionConfigDef.java">com/actionbarsherlock/tools/pub/ConnectionConfigDef.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-plugin/plugin-generager/checkstyle.html#com.actionbarsherlock.tools.pub.ConnectionDef.java">com/actionbarsherlock/tools/pub/ConnectionDef.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-plugin/plugin-generager/checkstyle.html#com.actionbarsherlock.tools.pub.exception.GenericException.java">com/actionbarsherlock/tools/pub/exception/GenericException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-plugin/plugin-generager/checkstyle.html#com.actionbarsherlock.tools.pub.exception.SysException.java">com/actionbarsherlock/tools/pub/exception/SysException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-plugin/plugin-generager/checkstyle.html#com.actionbarsherlock.tools.JavaCodeGen.java">com/actionbarsherlock/tools/JavaCodeGen.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-plugin/plugin-generager/checkstyle.html#com.actionbarsherlock.tools.pub.exception.AppException.java">com/actionbarsherlock/tools/pub/exception/AppException.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-plugin/plugin-generager/checkstyle.html#com.actionbarsherlock.tools.Convert2ObjVarName.java">com/actionbarsherlock/tools/Convert2ObjVarName.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-plugin/plugin-generager/checkstyle.html#com.actionbarsherlock.tools.Convert2ClassMethodName.java">com/actionbarsherlock/tools/Convert2ClassMethodName.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-plugin/plugin-generager/checkstyle.html#com.actionbarsherlock.tools.ColumnMetaData.java">com/actionbarsherlock/tools/ColumnMetaData.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+

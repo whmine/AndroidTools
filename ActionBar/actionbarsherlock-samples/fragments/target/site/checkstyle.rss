@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+
+<rss version="0.91">
+  <channel>
+    <title>Sample: Fragments - Checkstyle report</title>
+    <link>http://actionbarsherlock.com/parent-sample/sample-fragments</link>
+    <description>Sample: Fragments - Checkstyle report</description>
+    <language>en-us</language>
+    <copyright>&#169;2011 - 2013 Jake Wharton</copyright>
+    <item>
+      <title>File: 25,
+             Errors: 0,
+             Warnings: 0,
+             Infos: 0
+      </title>
+            <link>http://actionbarsherlock.com/parent-sample/sample-fragments/checkstyle.html</link>
+      <description>
+        <p>Click <a href="http://actionbarsherlock.com/parent-sample/sample-fragments/checkstyle.html">here</a> for the full Checkstyle report.</p>
+
+        <table summary="Files" boder="1">
+          <thead>
+            <tr>
+              <th>Files</th>
+              <th style="width:30px;"><abbr title="Info">I</abbr></th>
+              <th style="width:30px;"><abbr title="Warning">W</abbr></th>
+              <th style="width:30px;"><abbr title="Error">E</abbr></th>
+            </tr>
+          </thead>
+          <tbody>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-fragments/checkstyle.html#com.actionbarsherlock.sample.fragments.LoaderCustomSupport.java">com/actionbarsherlock/sample/fragments/LoaderCustomSupport.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-fragments/checkstyle.html#com.actionbarsherlock.sample.fragments.FragmentHideShowSupport.java">com/actionbarsherlock/sample/fragments/FragmentHideShowSupport.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-fragments/checkstyle.html#com.actionbarsherlock.sample.fragments.FragmentRetainInstanceSupport.java">com/actionbarsherlock/sample/fragments/FragmentRetainInstanceSupport.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-fragments/checkstyle.html#com.actionbarsherlock.sample.fragments.SendResult.java">com/actionbarsherlock/sample/fragments/SendResult.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-fragments/checkstyle.html#com.actionbarsherlock.sample.fragments.FragmentAlertDialogSupport.java">com/actionbarsherlock/sample/fragments/FragmentAlertDialogSupport.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-fragments/checkstyle.html#com.actionbarsherlock.sample.fragments.FragmentLayoutSupport.java">com/actionbarsherlock/sample/fragments/FragmentLayoutSupport.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-fragments/checkstyle.html#com.actionbarsherlock.sample.fragments.SampleList.java">com/actionbarsherlock/sample/fragments/SampleList.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-fragments/checkstyle.html#com.actionbarsherlock.sample.fragments.FragmentContextMenuSupport.java">com/actionbarsherlock/sample/fragments/FragmentContextMenuSupport.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-fragments/checkstyle.html#com.actionbarsherlock.sample.fragments.FragmentArgumentsSupport.java">com/actionbarsherlock/sample/fragments/FragmentArgumentsSupport.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-fragments/checkstyle.html#com.actionbarsherlock.sample.fragments.FragmentListArraySupport.java">com/actionbarsherlock/sample/fragments/FragmentListArraySupport.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-fragments/checkstyle.html#com.actionbarsherlock.sample.fragments.FragmentStackSupport.java">com/actionbarsherlock/sample/fragments/FragmentStackSupport.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-fragments/checkstyle.html#com.actionbarsherlock.sample.fragments.FragmentReceiveResultSupport.java">com/actionbarsherlock/sample/fragments/FragmentReceiveResultSupport.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-fragments/checkstyle.html#com.actionbarsherlock.sample.fragments.FragmentCustomAnimationSupport.java">com/actionbarsherlock/sample/fragments/FragmentCustomAnimationSupport.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-fragments/checkstyle.html#com.actionbarsherlock.sample.fragments.FragmentPagerSupport.java">com/actionbarsherlock/sample/fragments/FragmentPagerSupport.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-fragments/checkstyle.html#com.actionbarsherlock.sample.fragments.FragmentDialogOrActivitySupport.java">com/actionbarsherlock/sample/fragments/FragmentDialogOrActivitySupport.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-fragments/checkstyle.html#com.actionbarsherlock.sample.fragments.Cheeses.java">com/actionbarsherlock/sample/fragments/Cheeses.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-fragments/checkstyle.html#com.actionbarsherlock.sample.fragments.LoaderCursorSupport.java">com/actionbarsherlock/sample/fragments/LoaderCursorSupport.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-fragments/checkstyle.html#com.actionbarsherlock.sample.fragments.FragmentMenuSupport.java">com/actionbarsherlock/sample/fragments/FragmentMenuSupport.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-fragments/checkstyle.html#com.actionbarsherlock.sample.fragments.FragmentTabsPager.java">com/actionbarsherlock/sample/fragments/FragmentTabsPager.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-fragments/checkstyle.html#com.actionbarsherlock.sample.fragments.LoaderThrottleSupport.java">com/actionbarsherlock/sample/fragments/LoaderThrottleSupport.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-fragments/checkstyle.html#com.actionbarsherlock.sample.fragments.FragmentTabs.java">com/actionbarsherlock/sample/fragments/FragmentTabs.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-fragments/checkstyle.html#com.actionbarsherlock.sample.fragments.FragmentStatePagerSupport.java">com/actionbarsherlock/sample/fragments/FragmentStatePagerSupport.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-fragments/checkstyle.html#com.actionbarsherlock.sample.fragments.FragmentDialogSupport.java">com/actionbarsherlock/sample/fragments/FragmentDialogSupport.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-fragments/checkstyle.html#com.actionbarsherlock.sample.fragments.Shakespeare.java">com/actionbarsherlock/sample/fragments/Shakespeare.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                          <tr>
+                <td>
+                  <a href="http://actionbarsherlock.com/parent-sample/sample-fragments/checkstyle.html#com.actionbarsherlock.sample.fragments.CheckableFrameLayout.java">com/actionbarsherlock/sample/fragments/CheckableFrameLayout.java</a>
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+                <td>
+                  0
+                </td>
+              </tr>
+                      </tbody>
+        </table>
+        
+      </description>
+    </item>
+  </channel>
+</rss>
+
